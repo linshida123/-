@@ -1,0 +1,9 @@
+public class SayHello2{
+	public static void main(String args[]){
+		int a;
+		for (int i = 1; i < = 10; i++){
+			a = a + 1;
+		}
+		return a;
+	}
+}
